@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<onlineCourses>
+
+    <platform>
+        <name>ALLCOURSES</name>
+        <description>E-Learning Platform</description>
+    </platform>
+
+    <users>
+        <user>
+            <name>Sample User</name>
+            <email>user@example.com</email>
+            <password>123456</password>
+        </user>
+    </users>
+
+    <courses>
+        <course id="ai1">
+            <title>Python</title>
+            <instructor>Tech Academy</instructor>
+            <price>479</price>
+            <rating>4.5</rating>
+            <image>python.jpg</image>
+        </course>
+
+        <course id="ai2">
+            <title>Java</title>
+            <instructor>365 Careers</instructor>
+            <price>479</price>
+            <rating>4.8</rating>
+            <image>java.png</image>
+        </course>
+
+        <course id="ai3">
+            <title>Web Development</title>
+            <instructor>365 Careers</instructor>
+            <price>479</price>
+            <rating>4.4</rating>
+            <image>webdevelopment.jpg</image>
+        </course>
+
+        <course id="ai4">
+            <title>Machine Learning</title>
+            <instructor>Selfcode</instructor>
+            <price>479</price>
+            <rating>4.7</rating>
+            <image>machine learning.png</image>
+        </course>
+    </courses>
+
+    <contact>
+        <address>Hyderabad, India</address>
+        <email>support@upskill.com</email>
+        <phone>+91 9876543210</phone>
+    </contact>
+
+</onlineCourses>
